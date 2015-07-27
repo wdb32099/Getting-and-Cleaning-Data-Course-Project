@@ -1,6 +1,3 @@
-# Getting-and-Cleaning-Data-Course-Project
-Getting and Cleaning Data Course Project
-
 #Import Test Data
 subject_test<-read.table("UCI HAR Dataset/test/subject_test.txt")
 y_test<-read.table("UCI HAR Dataset/test/y_test.txt")
